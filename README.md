@@ -2,6 +2,8 @@
 
 ## I'm Gregory, AI Research Engineer
 
+[📃 My CV is here](CV%20(AI%20engineer)%20Grigorii%20Kirgizov%20v5.pdf)
+
 I'm working on hybrid intelligence methods and developing on methods with relevance beyond current AI wave.  My mission is to make the inanimate world responsive to human needs through ambient intelligent technology. Technology must be alive and communicable. If this resonates with you, I'd like to chat. Please [💬 drop me a message](https://t.me/jregory). I'm always looking for fellow futurists and visionaries.
 
 I worked at [JetBrains](https://www.jetbrains.com/mps/) on domain language design and incremental type checkers (project [CodeRules](https://github.com/JetBrains/mps-coderules)). Currently I work on AutoML & evolutionary graph optimization methods at AI Institute in Saint-Petersburg [@aimclub](https://github.com/aimclub/).
